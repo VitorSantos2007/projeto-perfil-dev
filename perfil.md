@@ -9,3 +9,7 @@ Linguagens que estou aprendendo:
 
 Objetivo:
 Me tornar um desenvolvedor profissional.
+
+Hobbies:
+- Programar
+- Estudar tecnologia
