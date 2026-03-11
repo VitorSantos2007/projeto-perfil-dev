@@ -13,3 +13,6 @@ Me tornar um desenvolvedor profissional.
 Hobbies:
 - Programar
 - Estudar tecnologia
+
+Contato:
+vitorfaria1503@gmail.com
